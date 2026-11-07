@@ -3,4 +3,4 @@
 [Watch on YouTube](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 # karpathy AI zero to hero video - where the jupyter notebook is from
-[Watch on YouTube](karpathy.ai/zero-to-hero.html)
+[Watch on YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
